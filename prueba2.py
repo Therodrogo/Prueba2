@@ -1,4 +1,5 @@
 import codecs
 
-
-print("Hola mundo")
+def imprimirholamundo():
+    print("Hola mundo")
+    return
